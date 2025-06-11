@@ -23,6 +23,8 @@
 
 .colaboradores{
   display: flex;
-  justify-content: space-evenly;
+  justify-content: center;
+  gap: 20px;
+  /* justify-content: space-evenly; */
   flex-wrap: wrap;
 }
